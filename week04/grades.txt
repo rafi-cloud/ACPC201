@@ -1,0 +1,12 @@
+Score: 90, Grade: HD
+Score: 80, Grade: D
+Score: 70, Grade: C
+Invalid score: 1055. Score must be between 0 and 100.
+Score: 60, Grade: P
+Score: 40, Grade: Fail
+Score: 85, Grade: HD
+Score: 75, Grade: D
+Score: 65, Grade: C
+Score: 55, Grade: P
+Score: 45, Grade: Fail
+Invalid score: -5. Score must be between 0 and 100.
